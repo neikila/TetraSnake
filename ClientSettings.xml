@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level name="WindowSettings">
+	<entity class="Field">
+		<body border="10"/>
+		<body boxwidth="20"/>
+	</entity>
+	<entity name="FigureColorSetting">
+		<body R="1.0" G="0.5" B="1.0"/>
+		<body R="1.0" G="1.0" B="0.0"/>
+		<body R="0.5" G="0.8" B="1.0"/>
+		<body R="1.0" G="0.2" B="0.8"/>
+		<body R="1.0" G="0.7" B="0.3"/>
+		<body R="1.0" G="0.0" B="1.0"/>
+		<body R="1.0" G="0.0" B="0.0"/>
+		<body R="0.0" G="1.0" B="1.0"/>
+		<body R="0.0" G="1.0" B="0.0"/>
+		<body R="0.0" G="0.0" B="1.0"/>
+	</entity>
+	<entity name="FigureColorSetting">
+		<body R="1.0" G="0.5" B="1.0"/>
+	</entity>
+</level> 

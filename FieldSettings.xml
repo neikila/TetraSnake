@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level name="FieldSettings">
+	<entity class="Field">
+		<body Height="25"/>
+		<body Width="15"/>
+	</entity>
+</level> 

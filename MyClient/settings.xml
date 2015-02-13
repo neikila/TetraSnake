@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level name="Figure">
+<!--Zero Point is placed at third row, second column -->
+	<entity class="Line">
+		<body NumberOfRotations="2"/>
+		<body line="_#__"/>
+		<body line="_#__"/>
+		<body line="_#__"/>
+		<body line="_#__"/>
+	</entity>
+	<entity class="Square">
+		<body NumberOfRotations="1"/>
+		<body line="____"/>
+		<body line="_##_"/>
+		<body line="_##_"/>
+		<body line="____"/>
+	</entity>
+	<entity class="T-form">
+		<body NumberOfRotations="4"/>
+		<body line="____"/>
+		<body line="_#__"/>
+		<body line="###_"/>
+		<body line="____"/>
+	</entity>
+	<entity class="ZigZak">
+		<body NumberOfRotations="2"/>
+		<body line="____"/>
+		<body line="____"/>
+		<body line="##__"/>
+		<body line="_##_"/>
+	</entity>
+	<entity class="Reverse ZigZak">
+		<body NumberOfRotations="2"/>
+		<body line="____"/>
+		<body line="____"/>
+		<body line="_##_"/>
+		<body line="##__"/>
+	</entity>
+	<entity class="L-form">
+		<body NumberOfRotations="4"/>
+		<body line="____"/>
+		<body line="#___"/>
+		<body line="###_"/>
+		<body line="____"/>
+	</entity>
+	<entity class="Reverse L-form">
+		<body NumberOfRotations="4"/>
+		<body line="____"/>
+		<body line="__#_"/>
+		<body line="###_"/>
+		<body line="____"/>
+	</entity>
+</level> 
